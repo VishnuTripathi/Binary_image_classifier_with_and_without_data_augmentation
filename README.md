@@ -1,4 +1,5 @@
-# Binary_image_classifier_with_and_without_data_augmentation
- Created a Cat and Dog own Classifier with and without Data Augmentation  
- dataset.zip file has 2000 images of both dog and cat
+# Binary image classifier with and without data augmentation
+ Created a Cat and Dog own Classifier using CNN with and without Data Augmentation.    
+ datasets.zip- file has 2000 images of both dog and cat.  
+ Data Augmentation - Cats vs Dogs-Binary Classifier.ipynb- is the code and comparison of both the models.
  
